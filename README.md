@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img  src="https://komarev.com/ghpvc/?username=redsaumon" alt="redsaumon" />
-<img src="https://github-readme-stats.vercel.app/api?username=redsaumon&count_private=true&show_icons=true&theme=dracula" alt="devded" width="500"/>
 
 <p>
   <img src= "https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -28,3 +26,4 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@yeonu/"> <img src="https://img.shields.io/badge/Velog-4ED998?style=for-the-badge&logo=Vimeo&logoColor=white">
   <a href="mailto:ywhong830@gmail.com"> <img src="https://img.shields.io/badge/Gmail-C63319?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=redsaumon&count_private=true&show_icons=true&theme=dracula" alt="devded" width="500"/>
