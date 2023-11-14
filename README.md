@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <p>
   <img src= "https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Django-145C21?style=for-the-badge&logo=Django&logoColor=white"> 
@@ -22,6 +23,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AWS-20195A?style=for-the-badge&logo=Amazon-AWS&logoColor=white"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
 </p>
+-->
+
 <p>
   <a href="https://velog.io/@yeonu/"> <img src="https://img.shields.io/badge/Velog-4ED998?style=for-the-badge&logo=Vimeo&logoColor=white">
   <a href="mailto:ywhong830@gmail.com"> <img src="https://img.shields.io/badge/Gmail-C63319?style=for-the-badge&logo=Gmail&logoColor=white"> 
